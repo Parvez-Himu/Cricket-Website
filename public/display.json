@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/ktubjmyua3s72ccs06dy",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 25000
+  },
+  {
+    "playerId": 12,
+    "name": "Shakib Al-Hasan",
+    "country": "Bangladesh",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/qvnvxnpgom8ttq5ev7us",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 22000
+  },
+  {
+    "playerId": 3,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/vo7livavweluzflekelp",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 32000
+  },
+  {
+    "playerId": 4,
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/mywo9syrmgiithyrqqyv",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 18000
+  },
+  {
+    "playerId": 5,
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/o5xbih2nkjwrpcqda5wg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 29000
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/ti7akwqinafvljhbafex",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 25000
+  },
+  {
+    "playerId": 7,
+    "name": "Moeen Ali",
+    "country": "England",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/hhqcosnocfc4btdvjaff",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 22000
+  },
+  {
+    "playerId": 8,
+    "name": "David Willey",
+    "country": "England",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/czgzw8r0wuztyb6qyvpo",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 20000
+  },
+  {
+    "playerId": 9,
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/dkrqzmmseghtd1pn52t8",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 24000
+  },
+  {
+    "playerId": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/bjkhi15qisvx0avdas8y",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 27000
+  },
+  {
+    "playerId": 11,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/l8tt7yub84ktqlg3gul7",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 25000
+  },
+  {
+    "playerId": 12,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/unpmv8rveyrbio7imcum",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 30000
+  },
+  {
+    "playerId": 13,
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/gttius1th0v7uuu3obmo",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg-spin",
+    "biddingPrice": 24000
+  },
+  {
+    "playerId": 14,
+    "name": "Ruturaj Gaikwad",
+    "country": "India",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/hei3yfnhsxaubkkic9wi",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 20000
+  },
+  {
+    "playerId": 15,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio3_4-size40/prd/dqhht9392uwkekzfryqm",
+    "role": "Wicket kipper",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg-spin",
+    "biddingPrice": 24000
+  }
+]
